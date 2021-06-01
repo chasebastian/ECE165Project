@@ -4,6 +4,7 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
+<<<<<<< HEAD:PGCELL/schematic/sch.oa.cdslck
 LoginName                      ee165sp21ar
 HostName                       ieng6-ece-07.ucsd.edu
 ProcessIdentifier              5137
@@ -14,3 +15,15 @@ OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
 FilePathUsedToEditLock         /home/linux/ieng6/ee165sp21/ee165sp21ar/Projectadder/PGCELL/schematic/sch.oa.cdslck.dirlck
 TimeEditLocked                 Sun May 30 15:15:08 2021 PDT
+=======
+LoginName                      ee165sp21ad
+HostName                       ieng6-ece-17.ucsd.edu
+ProcessIdentifier              30285
+ProcessCreationTime_UTC        1622570711
+ProcessCreationTime_Readable   Tue Jun  1 11:05:11 2021 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/linux/ieng6/ee165sp21/ee165sp21ad/AdderV1/GREYCELL/calibre/sch.oa.cdslck
+TimeEditLocked                 Tue Jun  1 11:18:05 2021 PDT
+>>>>>>> 77b7127d7be1b7cb50471eaa6d746bbed9fbf3be:GREYCELL/calibre/sch.oa.cdslck
